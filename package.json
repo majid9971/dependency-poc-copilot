@@ -1,0 +1,10 @@
+{
+  "name": "dependency-poc",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo Test Passed"
+  },
+  "dependencies": {
+    "axios": "0.21.0"
+  }
+}
