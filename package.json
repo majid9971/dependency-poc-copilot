@@ -5,6 +5,6 @@
     "test": "echo Test Passed"
   },
   "dependencies": {
-    "axios": "0.21.0"
+    "axios": "1.16.1"
   }
 }
